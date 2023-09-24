@@ -3,6 +3,6 @@
 ### Projects : -
 
 1. Prediction Using Unsupervised ML
-2. Exploratory Analysis - Terrorism
+2. Terrorism
 3. Tiktok Popular Songs
 4. Aging And Longevity 
